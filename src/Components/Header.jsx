@@ -7,9 +7,7 @@ export default function Header() {
         <img id="chefIcon" src={chefIcon} alt="chefIcon" />
         <h1>Chef Claude</h1>
       </header>
-      <div className="trailingContent">
-       
-      </div>
+      
     </>
   );
 }
